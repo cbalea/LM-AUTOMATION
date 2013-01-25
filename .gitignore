@@ -1,0 +1,6 @@
+Legacy/
+*.pyc
+Panda/testsresults/*
+*.pydevproject
+.idea/
+Panda/.settings
